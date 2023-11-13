@@ -68,13 +68,10 @@ Using Claude AI for CORE I System Verilog code development -- Don Golding -- 202
 https://www.youtube.com/watch?v=QxDRVTXuJH8&t=1218s
 
 Don Golding's robots...
-
 https://www.youtube.com/watch?v=ZYs9nYzAv-4&t=1819s
 
 Space robotics...
 https://www.youtube.com/watch?v=eXzG6KbsliQ&t=216s
-
-
 
 Source Code Review - this is before the the full Forth Computer was completed.  It does show how the system is built.  You will be able to use 'high level Forth in a terminal program running on your computer.  Both the Interpreter and Compiler is on chip.  Compiler is the final focus now.
 
